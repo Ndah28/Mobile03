@@ -29,7 +29,7 @@
 			>
 
 		</LinearLayout>
-	>
+
 	</LinearLayout>
 	<Button
 		android:id="@+id/button"
